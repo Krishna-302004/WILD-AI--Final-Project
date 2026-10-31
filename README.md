@@ -1,14 +1,14 @@
-🐾 WildAI – AI-Powered Wildlife Monitoring & Human-Wildlife Conflict Prevention System
+# 🐾 WildAI – AI-Powered Wildlife Monitoring & Human-Wildlife Conflict Prevention System
 
 WildAI is an AI-powered wildlife monitoring and early-warning platform designed to detect wildlife in real time, monitor animal movement, assess potential human-wildlife conflict risks, and provide timely alerts. The system combines computer vision, object tracking, geospatial analysis, and live camera monitoring to improve wildlife surveillance and support human safety.
 
-🌍 Project Overview
+## 🌍 Project Overview
 
 Human-wildlife conflict is a growing concern, particularly in areas where human settlements overlap with wildlife habitats. Traditional monitoring methods often depend on manual observation and delayed reporting.
 
 WildAI addresses this challenge through an integrated platform that processes live camera feeds, identifies wildlife and human presence, tracks detected objects, and provides automated alerts when potential threats are identified.
 
-✨ Key Features
+## ✨ Key Features
 
 * Real-Time Wildlife Detection: Detects wildlife and humans from live camera feeds using YOLO11 Nano.
 * Object Tracking: Uses ByteTrack to track detected objects across consecutive video frames.
@@ -20,7 +20,7 @@ WildAI addresses this challenge through an integrated platform that processes li
 * Wildlife Sighting Submission: Allows users to upload wildlife images and submit sighting information.
 * Web-Based Dashboard: Provides a centralized interface for monitoring detections, alerts, and wildlife activity.
 
-🧠 AI Models & Algorithms
+ ## 🧠 AI Models & Algorithms
 
 Technology	Purpose
 YOLO11 Nano	Real-time wildlife and human detection
@@ -28,7 +28,7 @@ ByteTrack	Multi-object tracking across video frames
 CLAHE	Low-light image enhancement
 Geospatial Analysis	Spatial risk assessment and safe-destination identification
 
-🏗️ System Architecture
+## 🏗️ System Architecture
 
 WildAI follows a modular architecture consisting of the following layers:
 
@@ -38,7 +38,7 @@ WildAI follows a modular architecture consisting of the following layers:
 4. Alert Management Layer: Generates automated SMS notifications based on detected threats and system-defined alert conditions.
 5. Application Layer: Provides a web dashboard for administrators and users to access monitoring information, submit sightings, and view relevant alerts.
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 Frontend
 
@@ -84,7 +84,7 @@ AI-Assisted Development
 * Cursor
 * AI coding agents
 
-⚙️ Working Methodology
+## ⚙️ Working Methodology
 
 1. Camera devices capture live video footage from monitored locations.
 2. Video frames are extracted and passed to the AI processing pipeline.
@@ -150,7 +150,7 @@ npm run dev
 
 Note: Camera accessibility depends on the network configuration. Private IP camera addresses generally work only when the backend can reach the same local network or through an appropriately configured network tunnel.
 
-📌 Project Objectives
+## 📌 Project Objectives
 
 * Improve real-time wildlife surveillance.
 * Reduce delays in identifying potential human-wildlife conflicts.
@@ -158,7 +158,7 @@ Note: Camera accessibility depends on the network configuration. Private IP came
 * Provide timely alerts to support preventive action.
 * Build an integrated and scalable wildlife monitoring platform.
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 * Integration of additional IoT camera devices.
 * Improved wildlife species classification.
@@ -167,7 +167,7 @@ Note: Camera accessibility depends on the network configuration. Private IP came
 * Cloud-based video processing and storage.
 * Wider deployment across wildlife-sensitive regions.
 
-👥 Project Information
+## 👥 Project Information
 
 Project Name: WildAI
 
