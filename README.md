@@ -95,7 +95,7 @@ AI-Assisted Development
 7. The system generates relevant alerts and sends SMS notifications.
 8. Users can submit wildlife sightings through the web application, while administrators can monitor detections and system activity through the dashboard.
 
-🚀 Installation & Setup
+ ## 🚀 Installation & Setup
 
 Prerequisites
 
