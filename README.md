@@ -1,4 +1,4 @@
-# 🐾 WildAI – AI-Powered Wildlife Monitoring & Human-Wildlife Conflict Prevention System
+# 🐾 WildAI – AI-Based Wildlife Surveillance & Human Intrusion Monitoring System
 
 WildAI is an AI-powered wildlife monitoring and early-warning platform designed to detect wildlife in real time, monitor animal movement, assess potential human-wildlife conflict risks, and provide timely alerts. The system combines computer vision, object tracking, geospatial analysis, and live camera monitoring to improve wildlife surveillance and support human safety.
 
